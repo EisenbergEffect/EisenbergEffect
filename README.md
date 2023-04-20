@@ -1,6 +1,18 @@
 
 ![Twitter Banner](https://user-images.githubusercontent.com/131485/233229061-b08f307d-9ad0-407d-a76a-79bae26c7ed0.png)
 
+<div id="badges">
+  <a href="https://twitter.com/EisenbergEffec)">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/Medium-red?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+  </a>
+    <a href="https://www.linkedin.com/in/robeisenberg/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
 ### Hi, I'm Rob 👋
 
 I've been programming for 35 years with 20 of those years as a professional software architect and engineer building and shipping solutions for dozens of industries; from e-commerce, to manufacturing, HR, gaming, design/developer tools, CMS, medical, insurance, education, pro audio, web platform, and more.
@@ -10,9 +22,3 @@ I have been a consistent leader of multiple, highly successful open-source proje
 I'm a huge advocate of Web Standards and Web Components with unique experience designing libraries and contributing directly to W3C, WHATWG, and TC39 work. I hope you'll join me in embracing the open web.
 
 Currently I consult, teach, and mentor developers, mostly focused on Web Standards, Web Components, UI Architecture, and Engineering Culture. 
-
-Please follow me on:
-
-* [Twitter](https://twitter.com/EisenbergEffect)
-* [LinkedIn](https://www.linkedin.com/in/robeisenberg/)
-* [Medium](https://eisenbergeffect.medium.com/)
