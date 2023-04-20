@@ -2,7 +2,7 @@
 ![Twitter Banner](https://user-images.githubusercontent.com/131485/233229061-b08f307d-9ad0-407d-a76a-79bae26c7ed0.png)
 
 <div id="badges" align="center">
-  <a href="https://twitter.com/EisenbergEffec)">
+  <a href="https://twitter.com/EisenbergEffect">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://eisenbergeffect.medium.com/">
