@@ -21,4 +21,4 @@ I have been a consistent leader of multiple, highly successful open-source proje
 
 I'm a huge advocate of Web Standards and Web Components with unique experience designing libraries and contributing directly to W3C, WHATWG, and TC39 work. I hope you'll join me in embracing the open web.
 
-Currently I consult, teach, and mentor developers, mostly focused on Web Standards, Web Components, UI Architecture, and Engineering Culture. 
+Currently I consult, teach, and mentor developers, mostly focused on Web Standards, Web Components, UI Architecture, and Engineering Culture. If you are interested in engaging on these topics, [please reach out](https://bluespire.com/).
