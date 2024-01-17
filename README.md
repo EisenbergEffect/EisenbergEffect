@@ -2,13 +2,13 @@
 ![Twitter Banner](https://user-images.githubusercontent.com/131485/233229061-b08f307d-9ad0-407d-a76a-79bae26c7ed0.png)
 
 <div id="badges" align="center">
-  <a href="https://twitter.com/EisenbergEffect">
+  <a href="https://twitter.com/EisenbergEffect" style="text-decoration:none">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://eisenbergeffect.medium.com/">
+  <a href="https://eisenbergeffect.medium.com/" style="text-decoration:none">
     <img src="https://img.shields.io/badge/Medium-red?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
-    <a href="https://www.linkedin.com/in/robeisenberg/">
+    <a href="https://www.linkedin.com/in/robeisenberg/" style="text-decoration:none">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
