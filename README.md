@@ -21,7 +21,7 @@ I have been a consistent leader of multiple, highly successful open-source proje
 
 I'm a huge advocate of Web Standards and Web Components with unique experience designing libraries and contributing directly to W3C, WHATWG, and TC39 work. I hope you'll join me in embracing the open web.
 
-Currently I consult, teach, and mentor developers, mostly focused on Web Standards, Web Components, UI Architecture, and Engineering Culture. If you are interested in learning more about Modernen UI Engineering, check out my latest course:
+Currently I consult, teach, and mentor developers, mostly focused on Web Standards, Web Components, UI Architecture, and Engineering Culture. **If you are interested in learning more about Modernen UI Engineering, check out my latest course:**
 
 [<img src="https://github.com/EisenbergEffect/EisenbergEffect/assets/131485/4614a51c-d071-42a9-a6af-776e3b85407f">](https://bluespire.com/p/web-component-engineering)
 
