@@ -26,4 +26,4 @@ Currently I consult, teach, and mentor developers, mostly focused on Web Standar
 [<img src="https://github.com/EisenbergEffect/EisenbergEffect/assets/131485/4614a51c-d071-42a9-a6af-776e3b85407f">](https://bluespire.com/p/web-component-engineering)
 
 
-**Use code EisenbergEffect to get 5% off.** Group/team rates and PPP discounts available upon request.
+**[Use code EisenbergEffect to get 5% off.](https://bluespire.com/p/web-component-engineering)** Group/team rates and PPP discounts available upon request.
