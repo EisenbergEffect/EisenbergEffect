@@ -15,13 +15,16 @@
 
 ### Hi, I'm Rob 👋
 
-I've been programming for 35 years with 20 of those years as a professional software architect and engineer building and shipping solutions for dozens of industries; from e-commerce, to manufacturing, HR, gaming, design/developer tools, CMS, medical, insurance, education, pro audio, web platform, and more.
+With 35 years of programming experience and 20 years as a professional software architect, I've built and shipped solutions across dozens of industries including e-commerce, manufacturing, HR, gaming, developer tools, CMS, medical, education, pro audio, web platform, and more.
 
-I have been a consistent leader of multiple, highly successful open-source projects over an 18-year period. You may know of my work as the architect and technical advisor for [Microsoft's FAST Web Components technology](https://www.fast.design/), used by almost 1,500 teams/products at Microsoft and shipped to over one billion customers. I am the original creator of Aurelia, Durandal, Caliburn.Micro, and Caliburn and also consulted with Google on Angular, AngularJS, and Angular Material. The earliest days of my open-source work were spent contributing to Castle Project and NHibernate.
+I bring 16 years of progressive leadership experience through all levels, building and managing successful engineering teams—co-located, hybrid, and remote—focused on front-end, cloud, and full-stack.
 
-I'm a huge advocate of Web Standards and Web Components with unique experience designing libraries and contributing directly to W3C, WHATWG, and TC39 work. I hope you'll join me in embracing the open web.
+My open-source contributions span 18 years, creating globally recognized projects used by tens of thousands of developers to ship experiences to over 1 billion customers worldwide. You may know me as the architect and technical advisor for Microsoft's FAST technology or as the original creator of Aurelia, Durandal, Caliburn.Micro, and Caliburn. I was also a technical lead early on for Angular 2 and an AngularJS and Angular Material team member, with my earliest open-source work on Castle Project and NHibernate.
 
-Currently I consult, teach, and mentor developers, mostly focused on Web Standards, Web Components, UI Architecture, and Engineering Culture. **If you are interested in learning more about Modern UI Engineering, check out my latest course:**
+Currently, I'm leading Blue Spire's initiatives in web standards while advising industry C-Suite and engineering leaders on technical strategy, software architecture, engineering culture, and open-source programs. My expertise extends to expert witnessing and specialized training for development teams in Web Standards, DDD, and Agile.
+Currently I consult, teach, and mentor developers, mostly focused on Web Standards, Web Components, UI Architecture, and Engineering Culture. 
+
+**If you are interested in learning more about Modern UI Engineering, check out my latest course:**
 
 [<img src="https://github.com/EisenbergEffect/EisenbergEffect/assets/131485/4614a51c-d071-42a9-a6af-776e3b85407f">](https://bluespire.com/p/web-component-engineering)
 
