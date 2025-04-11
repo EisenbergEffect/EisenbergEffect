@@ -17,7 +17,7 @@
 
 With 35 years of programming experience and 20 years as a professional software architect, I've built and shipped solutions across dozens of industries including e-commerce, manufacturing, HR, gaming, developer tools, CMS, medical, education, pro audio, web platform, and more.
 
-I bring 16 years of progressive leadership experience through all levels, building and managing successful engineering teams—co-located, hybrid, and remote—focused on front-end, cloud, and full-stack.
+I bring 16 years of progressive leadership experience through all levels, leading and growing successful engineering teams—co-located, hybrid, and remote—focused on Cloud, SaaS, UI, and DevSecOps.
 
 My open-source contributions span 18 years, creating globally recognized projects used by tens of thousands of developers to ship experiences to over 1 billion customers worldwide. You may know me as the architect and technical advisor for Microsoft's FAST technology or as the original creator of Aurelia, Durandal, Caliburn.Micro, and Caliburn. I was also a technical lead early on for Angular 2 and an AngularJS and Angular Material team member, with my earliest open-source work on Castle Project and NHibernate.
 
